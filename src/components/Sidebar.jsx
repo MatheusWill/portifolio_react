@@ -13,7 +13,7 @@ const Sidebar = () => {
       <SocialNetworkContainer />
       <InformationContainer />
       <a
-        href="https://drive.google.com/file/d/1B5n0SsgsAcwRv9cpfFnk4zvORkU90qo_/view?usp=sharing"
+        href="https://drive.google.com/file/d/1mRn0bc1pG4VTv1OTGXvcGY-KIKgVCyb_/view"
         target="blank"
         className="btn"
       >
